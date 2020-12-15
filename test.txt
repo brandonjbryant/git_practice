@@ -1,0 +1,3 @@
+This text file is meant to test whether I am actually pushing current work forward.
+
+I will know if I am successful based on the appearence of this text on my repository profile on github.
